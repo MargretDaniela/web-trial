@@ -1,0 +1,36 @@
+.submit {
+    background-color: green;
+    color: antiquewhite;
+    margin: 17px;
+    margin-right: 600px;
+    
+}
+.cancel{
+    background-color: red;
+    color: antiquewhite;
+    margin-right: 1200px;
+    margin: 17px;
+    
+
+}
+.part{
+    background-color: orangered;
+    
+}
+body{
+    background-color: rgb(3, 3, 49);
+}
+
+label{
+    color: yellow;
+}
+h1{
+    background-color: orangered;
+    color: antiquewhite;
+}
+input{
+    justify-content: center;
+}
+label{
+    justify-content: center;
+}
